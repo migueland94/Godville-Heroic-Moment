@@ -19,7 +19,7 @@ A simple browser extension that adds a touch of humor and epicness to your Godvi
 
 This extension is designed for **Firefox**.
 
-1.  Download the `.xpi` file.
+1.  Download the `c5c6a0a27a614c03a3df-1.2.xpi` file.
 2.  Open Firefox and type `about:addons` in the address bar.
 3.  Drag and drop the downloaded `.xpi` file onto the add-ons page.
 4.  Accept the permissions to complete the installation.
