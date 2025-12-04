@@ -9,7 +9,7 @@ A simple browser extension that adds a touch of humor and epicness to your Godvi
 ***
 
 *   **Dynamic Generation**: Creates a "Heroic Moment" block that updates periodically.
-*   **AI-Powered Images**: Generates a unique image based on your hero's recent actions, equipment, and pet.
+*   **AI-Powered Images**: Generates a unique image based on your hero's recent actions, equipment, and pet, used the amazing Pollinations.ai api.
 *   **Humorous Quotes**: Creates a quote with Godville's characteristic sarcastic and witty humor to accompany the image.
 *   **Seamless Integration**: The new block visually integrates with the Godville page design.
 
